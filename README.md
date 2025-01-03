@@ -2,14 +2,21 @@
 
 This Unity component provides comprehensive performance testing and profiling capabilities for common C# data structures: Array, List, Dictionary, and HashSet. It offers both standard performance measurements and Unity Profiler integration for detailed memory analysis.
 
-### Features
+## Features
 
-Performance testing for multiple data structures
-Memory usage profiling
-Configurable test sizes and iterations
-Automated test reporting
-File-based logging
-Unity Editor integration
+- Performance testing for multiple data structures
+- Memory usage profiling
+- Configurable test sizes and iterations
+- Automated test reporting
+- File-based logging
+- Unity Editor integration
+
+## Installation
+
+1. Clone the repository
+2. Copy the DataStructureTest.cs file into your Unity project
+3. Attach the script to any GameObject in your scene
+4. Standalone Profiler Window must be open in Deep Profile mode for accurate profiling results
 
 ### Configuration
 
