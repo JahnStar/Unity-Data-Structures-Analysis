@@ -1,0 +1,28 @@
+==== Data Structure Performance Test ====
+
+1/3/2025 12:49:31 PM
+Running 10 sets of tests...
+
+Execution Time: 3248.86ms
+
+==== Test Results (10 sets) ====
+
+Array:
+Add To Array: 27.115ms
+Iterate Array: 0.098ms
+Remove From Array: 0.068ms
+
+List:
+Add To List: 39.084ms
+Iterate List: 22.957ms
+Remove From List: 0.014ms
+
+Dictionary:
+Add To Dictionary: 63.818ms
+Iterate Dictionary: 46.993ms
+Remove From Dictionary: 0.006ms
+
+HashSet:
+Add To Hash Set: 108.177ms
+Iterate Hash Set: 16.168ms
+Remove From Hash Set: 0.006ms

@@ -1,0 +1,325 @@
+==== Data Structure Performance Test ====
+
+---- Profiler Test (10 sets) ----
+1/3/2025 3:29:43 PM
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 24.29ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 4153.75KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 61.16ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 19028.05KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 113.76ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 15412.29KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 99.34ms
+Managed Memory Delta: 2292.00KB
+Total Memory Delta: 568.34KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 23.34ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 52.35ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 94.34ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 96.53ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 22.57ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 55.11ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 3038.88KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 110.95ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 108.95ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 24.19ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 6061.23KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 71.16ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 52253.49KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 120.80ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 2964.52KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 117.91ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 2656.15KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 20.37ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 0.00KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 52.78ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 9975.44KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 100.43ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 103.50ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 26.83ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 6061.23KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 61.71ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 15144.83KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 111.09ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 133.00ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 39723.55KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 20.92ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 74.11KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 54.19ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 12304.14KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 100.19ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 102.21ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27300.33KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 23.85ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 6061.23KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 55.50ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 15144.83KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 105.78ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 113.39ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 27283.81KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 26.54ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 6061.23KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 61.82ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 15161.34KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 116.65ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 28254.38KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 121.72ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 24098.85KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Array Test
+Operations: Add To Array, Iterate Array, Remove From Array
+CPU Time: 26.45ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 4577.59KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# List Test
+Operations: Add To List, Iterate List, Remove From List
+CPU Time: 74.66ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 47165.90KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# Dictionary Test
+Operations: Add To Dictionary, Iterate Dictionary, Remove From Dictionary
+CPU Time: 122.99ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 36948.91KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+
+# HashSet Test
+Operations: Add To Hash Set, Iterate Hash Set, Remove From Hash Set
+CPU Time: 144.26ms
+Managed Memory Delta: 0.00KB
+Total Memory Delta: 53583.74KB
+Graphics Memory Delta: 0.00KB
+Running on Main Thread
+Execution Time: 3820.18ms
