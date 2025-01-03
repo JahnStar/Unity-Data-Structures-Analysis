@@ -222,32 +222,6 @@ Graphics Driver Memory
 - Fast lookup is needed
 - Order isn't important
 
-## Performance Optimization Tips
-
-1. **Memory Management**
-```csharp
-// Preallocate when possible
-var list = new List<T>(expectedCapacity);
-```
-
-2. **Operation Selection**
-```csharp
-// Prefer Array for fixed-size collections
-private readonly T[] fixedArray = new T[size];
-
-// Use List for dynamic collections
-private List<T> dynamicList = new List<T>();
-```
-
-3. **Iteration Optimization**
-```csharp
-// Use for loop for arrays/lists
-for(int i = 0; i < array.Length; i++)
-
-// Use foreach for dictionaries/hashsets
-foreach(var item in dictionary)
-```
-
 ## Conclusions
 
 The choice of data structure significantly impacts both performance and memory usage:
