@@ -2,7 +2,7 @@
 
 This Unity component provides comprehensive performance testing and profiling capabilities for common C# data structures: Array, List, Dictionary, and HashSet. It offers both standard performance measurements and Unity Profiler integration for detailed memory analysis.
 
-Features
+### Features
 
 Performance testing for multiple data structures
 Memory usage profiling
@@ -11,33 +11,29 @@ Automated test reporting
 File-based logging
 Unity Editor integration
 
-Configuration
-Inspector Settings
+### Configuration
 
 ```csharp
 [Header("Test Settings")]
 [SerializeField] private int testSize = 100000;
 [SerializeField] private TestTypes activeTests = (TestTypes)(-1);
-```
-
-testSize: Number of elements to use in tests (default: 100,000)
-activeTests: Flag enum to select which data structures to test
-
-Test Types
-```csharp
 [Flags]
 private enum TestTypes { Array = 1, List = 2, Dictionary = 4, HashSet = 8 }
 ```
-Usage
-Running Tests
 
-Via Keyboard:
+testSize: Number of elements to use in tests (default: 100,000)
+
+activeTests: Flag enum to select which data structures to test
+
+## Running Tests
+
+- Via Keyboard:
 
 Press numeric keys (0-9) to run standard tests
 Hold Shift + numeric keys for profiler tests
 0 defaults to 10 test sets
 
-Via Context Menu:
+- Via Context Menu:
 
 Run Test (100 Set)
 Run Test (1000 Set)
@@ -93,8 +89,8 @@ Graphics Driver Memory
 # Performance Analysis Results
 
 ## Test Environment
-- Unity Version: 2022.3 LTS
-- Platform: Windows 64-bit
+- Unity Version: 2022.3.50f1 LTS
+- Platform: Ubuntu 22.04
 - Test Size: 100,000 elements
 - Test Sets: 10 iterations
 
@@ -230,9 +226,3 @@ The choice of data structure significantly impacts both performance and memory u
 2. Lists offer good balance of performance and functionality
 3. Dictionaries excel at lookups but consume more resources
 4. HashSets are specialized for unique collections but resource intensive
-
-Choose based on specific use case requirements, considering:
-- Operation frequency
-- Memory constraints
-- Access patterns
-- Size volatility
